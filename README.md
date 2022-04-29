@@ -51,3 +51,22 @@ I have already developed several projects from scratch, working from the structu
 <img align="left" alt="NodeJs" style="margin: 5px;" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 
 <img align="left" alt="NodeJs" style="margin: 5px;" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+
+<br />
+<br />
+<br />
+<br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Alex's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Allex6&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Alex's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allex6" />
+
+</details>
