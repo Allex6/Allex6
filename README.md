@@ -1,16 +1,26 @@
 ### Hellooo :)
 
-My name is **Alex Souza** and I am 21 years old. I've been working as a **fullstack web developer** for at least 3 years, working as a freelancer. 🧑‍💻
+My name is **Alex Souza** and I am 22 years old. I've been working as a **fullstack web developer** for almost 4 years, mainly as a freelancer. 🧑‍💻
 
-I have already developed several projects from scratch, working from the structuring to the delivery of the complete system. I gained considerable experience during all this time as a freelancer. I am currently taking a training course in fullstack web development at Driven Education, seeking to improve my skills and become a specialist. 👨‍🎓
+I acquired vast experience in these years, developing projects of different types and complexity, always working on both the frontend and the backend.
+I am currently participating in a training course in fullstack web development, promoted by Driven Education. I'm also doing some side jobs as a freelancer, mainly on the Workana platform. 👨‍🎓
+
+### Some books I've read:
+
+- 📚 Web Development with Node and Express;
+- 📚 Practical Node.js Building Real-World Scalable Web Apps by Azat Mardan;
+- 📚 Web-Application-Security-Exploitation-and-Countermeasures-for-Modern-Web-Applications;
+- 📚 JavaScript Patterns;
+- 📚 Engenharia de Software Moderna;
+- 📚 Socket.IO Real-time Web Application Development by Rohit Rai
 
 ### A few things about me:
 
 - 🧠 Always looking to learn and improve;
 - 🧐 Currently applying new technologies in personal open-source projects;
-- 🤯 +10 projects completed and delivered;
-- 😍 Love NodeJS and Javascript (sometimes)
-- ☕️ Have the ability to turn coffee into code
+- 🤯 Many professionally developed projects for customers;
+- 😍 Love NodeJS and Javascript (sometimes);
+- ☕️ Have the ability to turn coffee into code;
 
 ### My Linkedin:
 [<img align="left" alt="LinkedIn" width="32px" style="margin: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alex-souza-4ba644174/)
