@@ -1,22 +1,8 @@
-### Welcome! My name is Alex Souza 🎯
+### Hi 😃
 
-Fullstack developer passionate about creating innovative solutions. With over 5 years of experience, I have built robust and scalable systems for several companies. Have you ever imagined a world where technology solves humanity's biggest problems? I'm working to make that happen. We'll get there.
+My name is Alex Souza, and I am 24 years old. I started my professional career in 2019 working as a freelancer through the Workana platform. In 2022, I decided to change the direction of my career and joined Sunne, one of the fastest-growing startups in the Northeast region of Brazil. I was recognized as one of the top 100 best-rated freelancers in Brazil, a feat that fills me with pride. Throughout these years, I have been improving my skills and constantly seek to learn new things.
 
-I am currently studying Data Science. My next goal is to complete my degree in Systems Analysis and Development, which I started but haven't finished yet.
-
-I started my career in 2019 as a freelancer, and later entered the world of startups, where I am to this day :)
-
-I am driven by innovation! I believe that through technology we can change the world, and I am always looking for new challenges and inspirations. In addition, I am trying to get started in the open-source world, I really enjoy creating libraries and useful things for the community.
-
-### Some of the best books I've ever read 📚
-
-- Node.Js Design Patterns;
-- Web Development with Node and Express;
-- Practical Node.js Building Real-World Scalable Web Apps by Azat Mardan;
-- Web-Application-Security-Exploitation-and-Countermeasures-for-Modern-Web-Applications;
-- JavaScript Patterns;
-- Engenharia de Software Moderna;
-- Socket.IO Real-time Web Application Development by Rohit Rai
+I am driven by innovation and a great enthusiast of science and technology! I believe that technology allows us to change the world, while science allows us to improve it. Curiosity is what moves me. Currently, I am graduating in Data Science, and my main goals are to specialize in Machine Learning and Software Engineering.
 
 ### Some open-source projects and libraries (Made with ❤️)
 
@@ -25,6 +11,7 @@ I am driven by innovation! I believe that through technology we can change the w
 ### Social Medias 🌐
 
 [<img align="left" alt="LinkedIn" width="32px" style="margin: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/alex-s-fran%C3%A7a/)
+[<img align="left" alt="LinkedIn" width="32px" style="margin: 5px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@allex6)
 
 <br />
 <br />
