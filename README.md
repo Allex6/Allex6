@@ -6,6 +6,7 @@ I am driven by innovation and a great enthusiast of science and technology! I be
 
 ### Some open-source projects and libraries (Made with ❤️)
 
+- [Scientific and Statistical functionalities in Node.js](https://github.com/Allex6/jscience)
 - [Brownian Motion Simulator in Node.js](https://github.com/Allex6/brownian)
 
 ### Social Medias 🌐
