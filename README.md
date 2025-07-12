@@ -1,11 +1,12 @@
 ### Hi 😃
 
-My name is Alex Souza, and I am 24 years old. I started my professional career in 2019 working as a freelancer through the Workana platform. In 2022, I decided to change the direction of my career and joined Sunne, one of the fastest-growing startups in the Northeast region of Brazil. I was recognized as one of the top 100 best-rated freelancers in Brazil, a feat that fills me with pride. Throughout these years, I have been improving my skills and constantly seek to learn new things.
+My name is Alex Souza, and I am 25 years old. I started my professional career in 2019 working as a freelancer through the Workana platform. In 2022, I decided to change the direction of my career and joined Sunne, one of the fastest-growing startups in the Northeast region of Brazil. I was recognized as one of the top 100 best-rated freelancers in Brazil, a feat that fills me with pride. Throughout these years, I have been improving my skills and constantly seek to learn new things.
 
 I am driven by innovation and a great enthusiast of science and technology! I believe that technology allows us to change the world, while science allows us to improve it. Curiosity is what moves me. Currently, I am graduating in Data Science, and my main goals are to specialize in Machine Learning and Software Engineering.
 
 ### Some open-source projects and libraries (Made with ❤️)
 
+- [A declarative, event-driven framework for TypeScript applications](https://github.com/Allex6/Entangle.ts)
 - [Scientific and Statistical functionalities in Node.js](https://github.com/Allex6/jscience)
 - [Brownian Motion Simulator in Node.js](https://github.com/Allex6/brownian)
 
