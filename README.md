@@ -24,6 +24,7 @@ I leverage a powerful set of tools to build scalable applications and data-drive
 
 #### 🤖 [Temporal-Rag](https://github.com/Allex6/temporal-rag)
 **A Zero-Dependency Time-Weighted Retrieval (TWR) Suite for Node.js, AI Agents, and RAG Systems.**
+
 Temporal RAG is a pure mathematical middleware that adds human-like forgetting and memory consolidation to your AI Agents. It acts as a Time-Weighted Re-Ranker, fusing the spatial results from your Vector Database (e.g., Qdrant, Pinecone, Chroma) with temporal decay algorithms derived from cognitive science.
 
 #### 🟢 [InfraLens](https://infralens.com.br)
