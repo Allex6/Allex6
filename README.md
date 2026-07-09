@@ -14,8 +14,8 @@ My focus is on building resilient architectures with zero friction and high math
 
 I leverage a powerful set of tools to build scalable applications and data-driven solutions.
 
-- **Core:** Node.js, TypeScript, Python (for Data Science).
-- **Architecture:** AWS Serverless, Event-Driven Design, PostgreSQL, Redis.
+- **Core:** Node.js, TypeScript, Python (for Data Science and Machine Learning).
+- **Architecture:** AWS, GCP, Microsservices, Event-Driven Design, PostgreSQL, Redis.
 - **Science & Data:** Statistical Analysis, Machine Learning basics, Physics simulations.
 
 ---
